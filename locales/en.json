@@ -1,0 +1,215 @@
+
+{
+  "header": {
+    "title": "PLOTMATE STORYBOARDS",
+    "features": "Features",
+    "pricing": "Pricing",
+    "about": "About",
+    "login": "Log In",
+    "createAccount": "Create Free Account"
+  },
+  "landing": {
+    "hero": {
+      "title": "PLOTMATE STORYBOARDS",
+      "subtitle1": "The Ultimate Visual Library",
+      "subtitle2": "For Filmmakers",
+      "cta": "Create Free Account"
+    },
+    "whatIs": {
+      "title": "WHAT IS PLOTMATE STORYBOARDS?",
+      "description": "PLOTMATE STORYBOARDS is a generative storyboard and shot design system. A fully searchable, high-definition image library for filmmakers. Use the power of Gemini to find the exact image you need, create storyboards, and manage your visual assets from script to screen."
+    },
+    "featuresSection": {
+      "generate": {
+        "title": "GENERATE ANY SHOT",
+        "description": "From a wide establishing shot to a detailed insert, describe what you need and watch it come to life. Our generative AI, powered by Gemini, creates photorealistic storyboard frames based on your exact specifications: shot size, composition, camera angle, lens, and more."
+      },
+      "workflow": {
+        "title": "SCRIPT-TO-SCREEN WORKFLOW",
+        "description": "Upload your script and let our AI automatically break it down into scenes. From there, manage your cast, props, and locations. Generate shot sequences for entire scenes, and maintain visual continuity with our top-down planning view."
+      }
+    },
+    "testimonial": {
+      "quote": "\"PLOTMATE STORYBOARDS has completely changed how I prep. The speed at which I can visualize a scene is incredible. It's an indispensable tool for any director.\"",
+      "author": "- Jane Doe",
+      "title": "Director, \"The Last Frame\""
+    },
+    "ctaSection": {
+      "title": "START CREATING TODAY",
+      "description": "Unlock the future of filmmaking. It's free to get started.",
+      "cta": "Create Free Account"
+    }
+  },
+  "footer": {
+    "title": "PLOTMATE STORYBOARDS",
+    "copyright": "© 2024 PLOTMATE STORYBOARDS. All rights reserved.",
+    "terms": "Terms of Service",
+    "privacy": "Privacy Policy",
+    "contact": "Contact"
+  },
+  "auth": {
+    "back": "Back",
+    "mainTitle": "PLOTMATE STORYBOARDS",
+    "createAccountTitle": "Create Account",
+    "welcomeBackTitle": "Welcome Back",
+    "createAccountSubtitle": "Start your next masterpiece.",
+    "signInSubtitle": "Sign in to continue.",
+    "nameLabel": "Full Name",
+    "emailLabel": "Email Address",
+    "passwordLabel": "Password",
+    "signUpButton": "Sign Up",
+    "logInButton": "Log In",
+    "processing": "Processing...",
+    "toggleToLogin": "Already have an account? Log In",
+    "toggleToSignUp": "Don't have an account? Sign Up"
+  },
+  "featuresPage": {
+    "hero": {
+      "title": "FEATURES",
+      "subtitle": "From Script to Screen: The Complete Visual Toolkit"
+    },
+    "cards": {
+      "generation": {
+        "title": "AI Storyboard Generation",
+        "description": "Describe any shot with detailed cinematographic terms—shot size, angle, lens, lighting—and watch Gemini create photorealistic frames instantly."
+      },
+      "workflow": {
+        "title": "Script-to-Screen Workflow",
+        "description": "Upload your script in various formats. Our AI analyzes the text, automatically breaking it down into scenes and identifying characters, props, and locations."
+      },
+      "library": {
+        "title": "Dynamic Cast & Prop Library",
+        "description": "Manage all your project's assets. Upload reference photos for actors and props, and our AI generates visual descriptions and smart-crops images for perfect compositions."
+      },
+      "scouting": {
+        "title": "AI Location Scouting",
+        "description": "Leverage Google Maps grounding to get rich, cinematic descriptions of real-world locations just by entering an address, guiding your location-based shot generation."
+      },
+      "continuity": {
+        "title": "Visual Continuity Planning",
+        "description": "Use the top-down continuity view to plan camera placements for entire scenes. Our AI helps you maintain continuity by automatically warning you of 180-degree line crosses."
+      }
+    }
+  },
+  "pricingPage": {
+    "title": "Founder's Tier",
+    "subtitle": "A special offer for our earliest supporters.",
+    "price": "$9.99",
+    "period": "/ month",
+    "tagline": "Locked in for life.",
+    "description": "Our first users will get all features available for just $9.99 a month, for life. This includes:",
+    "features": [
+      "Unlimited Storyboard Generation",
+      "AI Script Breakdown",
+      "Full Cast, Prop, and Location Management",
+      "Continuity Planning Tools",
+      "All future updates and features"
+    ],
+    "note": "Our pricing will be updated with tiers in the future, but your Founder's price will never change. Thanks for joining us at the start!",
+    "cta": "Get Started"
+  },
+  "onboarding": {
+    "skip": "Skip tour",
+    "next": "Next",
+    "back": "Back",
+    "getStarted": "Get Started",
+    "stepOf": "STEP {current} OF {total}",
+    "steps": {
+      "welcome": {
+        "title": "Welcome to PLOTMATE STORYBOARDS",
+        "description": "The ultimate visual toolkit for filmmakers. Create AI-generated storyboards and shot designs from script to screen -- all running locally in your browser.",
+        "detail": "This quick tour will walk you through the key features. You can skip at any time.",
+        "highlights": ["AI-powered storyboard image generation", "Script breakdown and scene management", "Visual continuity planning tools"]
+      },
+      "projects": {
+        "title": "Project Library",
+        "description": "Your creative home base. All projects live here with search, sort, and quick preview.",
+        "detail": "Each project contains its own scenes, shots, cast, props, and locations -- everything organized in one place.",
+        "highlights": ["Duplicate projects to reuse setups", "Full workspace backup and restore", "Import/export your entire library"]
+      },
+      "scenes": {
+        "title": "Script to Scenes",
+        "description": "Upload a script (PDF, TXT, or Fountain) and let AI automatically break it down into scenes with characters, props, and locations.",
+        "detail": "Or create scenes manually. The Project Assets Manager lets you import from the Media Library and use AI to describe your actors and locations.",
+        "highlights": ["Drag-and-drop scene reordering", "Per-scene lighting, mood, and color palette", "Manage cast, props, and locations per project"]
+      },
+      "shotBuilder": {
+        "title": "Shot Builder & AI",
+        "description": "The heart of the app. Define precise camera parameters and generate photorealistic storyboard frames with AI.",
+        "detail": "Set shot size, angle, movement, lens, DOF, and more. Use the AI Shot Assistant to describe a shot in plain English and let AI set the parameters.",
+        "highlights": ["Natural language shot interpretation", "AI shot sequence suggestions for entire scenes", "AI location scouting by address", "Image editing and refinement"]
+      },
+      "continuity": {
+        "title": "Continuity & Gallery",
+        "description": "Plan camera placements on a top-down floor plan and review all shots in a visual gallery grid.",
+        "detail": "The Continuity View helps you maintain visual consistency. The Gallery View gives you a bird's-eye view of every shot in a scene.",
+        "highlights": ["180-degree line with automatic crossing warnings", "FOV cones and shot sequence path visualization", "Drag-and-drop gallery reordering", "Undo/Redo support in continuity editor"]
+      },
+      "mediaLibrary": {
+        "title": "Media Library",
+        "description": "A global collection of actors, props, and locations you can reuse across all projects.",
+        "detail": "Upload reference photos and AI will generate descriptions. Import assets directly into any project from the library.",
+        "highlights": ["Folder organization with tags and search", "AI face detection and smart cropping for actors", "AI-generated visual descriptions", "Bulk upload and management"]
+      },
+      "export": {
+        "title": "Export & Share",
+        "description": "Export your storyboards in multiple formats for production use.",
+        "detail": "Share a polished PDF with clients, hand a shot list to your DP, or send a portable HTML file that works offline.",
+        "highlights": ["PDF: Client Storyboard, Shot List, Presentation Deck", "Image assets as ZIP (JPEG, PNG, WebP)", "Portable HTML viewer (self-contained, no server)", "Full workspace backup and restore"]
+      },
+      "apiSetup": {
+        "title": "API Setup",
+        "description": "PLOTMATE uses your own Google Gemini API key for all AI features. Your key stays local and is never sent to external servers.",
+        "detail": "Head to API & Settings in the sidebar to enter your key. All data stays in your browser -- nothing is uploaded.",
+        "highlights": ["Free API key from aistudio.google.com", "Optional: NanoBanana Pro for higher-fidelity images", "Optional: OpenAI and Midjourney key support"]
+      },
+      "ready": {
+        "title": "You're All Set!",
+        "description": "Start by creating your first project, or explore the Media Library and Settings. Happy storyboarding!",
+        "detail": "You can always revisit this tour from API & Settings in the sidebar."
+      }
+    },
+    "settings": {
+      "title": "Onboarding Tour",
+      "description": "Re-watch the introductory tour that explains the key features of the app.",
+      "resetButton": "Show Onboarding Again",
+      "resetConfirmation": "Onboarding will show on next page load. Refresh to see it now."
+    },
+    "carousel": {
+      "lightingSetup": {
+        "title": "Light Your Scenes Like a Pro",
+        "description": "Set up realistic lighting for each scene and watch it transform your AI-generated storyboard frames. The AI reads your exact lighting configuration — source type, direction, color, and modifiers — to produce cinematic, production-ready images.",
+        "detail": "Find the Lighting Setup section at the bottom of every scene form. Even a single key light dramatically improves image quality.",
+        "highlights": [
+          "7 source types: LED panel, COB + softbox, Fresnel, HMI, and more",
+          "8 directions: front, side, backlight, underlight, and more",
+          "8 light colors including teal, purple, and neon",
+          "8 modifiers: softbox, grid, gobo, haze/fog, and more",
+          "Add unlimited lights per scene for complex setups"
+        ]
+      },
+      "continuityView": {
+        "title": "Master Visual Continuity",
+        "description": "Plan camera placements on a top-down floor plan to ensure every shot maintains spatial consistency. The Continuity View is your visual map of the entire scene.",
+        "detail": "Access Continuity View from the Shot Builder toolbar. It prevents the most common editing mistake — accidentally crossing the line of action.",
+        "highlights": [
+          "Place characters and set elements on an interactive grid",
+          "Draw the 180° line — get automatic crossing warnings",
+          "FOV cones show exactly what each camera sees",
+          "Shot sequence path traces camera movement order",
+          "Full undo/redo support for all placements"
+        ]
+      }
+    },
+    "lightingHint": {
+      "title": "Lighting Setup — Your Secret Weapon",
+      "description": "Define per-scene lighting and the AI will render it faithfully. Source type, direction, color, modifiers — every detail shapes your generated frames.",
+      "highlights": [
+        "Directly influences AI image generation quality",
+        "Multiple lights per scene for complex setups",
+        "Modifiers like softbox, grid, gobo, and haze"
+      ]
+    },
+    "lightingProTip": "Adding lights here directly shapes how AI generates your storyboard images. Try adding a key light!"
+  }
+}

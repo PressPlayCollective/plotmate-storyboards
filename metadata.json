@@ -1,0 +1,5 @@
+{
+  "name": "PlotMate Storyboards",
+  "description": "A generative storyboard and shot design system for filmmakers, powered by Google's Gemini family of models. This tool helps create, manage, and visualize film shots through a button-driven interface, integrating features like image generation and contextual grounding with Google Maps and Search.",
+  "requestFramePermissions": []
+}

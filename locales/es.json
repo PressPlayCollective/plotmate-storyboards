@@ -1,0 +1,215 @@
+
+{
+  "header": {
+    "title": "PLOTMATE STORYBOARDS",
+    "features": "Características",
+    "pricing": "Precios",
+    "about": "Acerca de",
+    "login": "Iniciar sesión",
+    "createAccount": "Crear cuenta"
+  },
+  "landing": {
+    "hero": {
+      "title": "PLOTMATE STORYBOARDS",
+      "subtitle1": "La biblioteca visual definitiva",
+      "subtitle2": "Para cineastas",
+      "cta": "Crear cuenta"
+    },
+    "whatIs": {
+      "title": "¿QUÉ ES PLOTMATE STORYBOARDS?",
+      "description": "PLOTMATE STORYBOARDS es un sistema generativo de guiones gráficos y diseño de tomas. Una biblioteca de imágenes de alta definición totalmente buscable para cineastas. Usa el poder de Gemini para encontrar la imagen exacta que necesitas, crear guiones gráficos y gestionar tus activos visuales desde el guion hasta la pantalla."
+    },
+    "featuresSection": {
+      "generate": {
+        "title": "GENERA CUALQUIER TOMA",
+        "description": "Desde una toma de establecimiento amplia hasta un inserto detallado, describe lo que necesitas y observa cómo cobra vida. Nuestra IA generativa, impulsada por Gemini, crea fotogramas de guion gráfico fotorrealistas basados en tus especificaciones exactas: tamaño de toma, composición, ángulo de cámara, lente y más."
+      },
+      "workflow": {
+        "title": "FLUJO DE TRABAJO DEL GUION A LA PANTALLA",
+        "description": "Sube tu guion y deja que nuestra IA lo desglose automáticamente en escenas. Desde allí, gestiona tu elenco, utilería y locaciones. Genera secuencias de tomas para escenas enteras y mantén la continuidad visual con nuestra vista de planificación cenital."
+      }
+    },
+    "testimonial": {
+      "quote": "\"PLOTMATE STORYBOARDS ha cambiado por completo mi forma de preparar. La velocidad con la que puedo visualizar una escena es increíble. Es una herramienta indispensable para cualquier director.\"",
+      "author": "- Jane Doe",
+      "title": "Directora, \"El último fotograma\""
+    },
+    "ctaSection": {
+      "title": "COMIENZA A CREAR HOY",
+      "description": "Desbloquea el futuro del cine. Empezar es gratis.",
+      "cta": "Crear cuenta"
+    }
+  },
+  "footer": {
+    "title": "PLOTMATE STORYBOARDS",
+    "copyright": "© 2024 PLOTMATE STORYBOARDS. Todos los derechos reservados.",
+    "terms": "Términos de servicio",
+    "privacy": "Política de privacidad",
+    "contact": "Contacto"
+  },
+  "auth": {
+    "back": "Volver",
+    "mainTitle": "PLOTMATE STORYBOARDS",
+    "createAccountTitle": "Crear cuenta",
+    "welcomeBackTitle": "Bienvenido de nuevo",
+    "createAccountSubtitle": "Comienza tu próxima obra maestra.",
+    "signInSubtitle": "Inicia sesión para continuar.",
+    "nameLabel": "Nombre completo",
+    "emailLabel": "Dirección de correo electrónico",
+    "passwordLabel": "Contraseña",
+    "signUpButton": "Registrarse",
+    "logInButton": "Iniciar sesión",
+    "processing": "Procesando...",
+    "toggleToLogin": "¿Ya tienes una cuenta? Iniciar sesión",
+    "toggleToSignUp": "¿No tienes una cuenta? Registrarse"
+  },
+  "featuresPage": {
+    "hero": {
+      "title": "CARACTERÍSTICAS",
+      "subtitle": "Del guion a la pantalla: el kit de herramientas visual completo"
+    },
+    "cards": {
+      "generation": {
+        "title": "Generación de guiones gráficos con IA",
+        "description": "Describe cualquier toma con términos cinematográficos detallados (tamaño de plano, ángulo, lente, iluminación) y observa cómo Gemini crea fotogramas fotorrealistas al instante."
+      },
+      "workflow": {
+        "title": "Flujo de trabajo del guion a la pantalla",
+        "description": "Sube tu guion en varios formatos. Nuestra IA analiza el texto, dividiéndolo automáticamente en escenas e identificando personajes, utilería y locaciones."
+      },
+      "library": {
+        "title": "Biblioteca dinámica de elenco y utilería",
+        "description": "Gestiona todos los activos de tu proyecto. Sube fotos de referencia para actores y utilería, y nuestra IA genera descripciones visuales y recorta imágenes de forma inteligente para composiciones perfectas."
+      },
+      "scouting": {
+        "title": "Búsqueda de locaciones con IA",
+        "description": "Aprovecha Google Maps para obtener descripciones cinematográficas ricas de lugares del mundo real simplemente ingresando una dirección, guiando tu generación de tomas basadas en la locación."
+      },
+      "continuity": {
+        "title": "Planificación de la continuidad visual",
+        "description": "Usa la vista de continuidad cenital para planificar la ubicación de las cámaras en escenas enteras. Nuestra IA te ayuda a mantener la continuidad advirtiéndote automáticamente sobre los cruces del eje de 180 grados."
+      }
+    }
+  },
+  "pricingPage": {
+    "title": "Nivel Fundador",
+    "subtitle": "Una oferta especial para nuestros primeros seguidores.",
+    "price": "$9.99",
+    "period": "/ mes",
+    "tagline": "Fijado de por vida.",
+    "description": "Nuestros primeros usuarios obtendrán todas las funciones disponibles por solo $9.99 al mes, de por vida. Esto incluye:",
+    "features": [
+      "Generación ilimitada de guiones gráficos",
+      "Desglose de guiones con IA",
+      "Gestión completa de elenco, utilería y locaciones",
+      "Herramientas de planificación de continuidad",
+      "Todas las futuras actualizaciones y características"
+    ],
+    "note": "Nuestros precios se actualizarán con niveles en el futuro, pero tu precio de Fundador nunca cambiará. ¡Gracias por unirte a nosotros desde el principio!",
+    "cta": "Comenzar"
+  },
+  "onboarding": {
+    "skip": "Saltar tour",
+    "next": "Siguiente",
+    "back": "Atrás",
+    "getStarted": "Comenzar",
+    "stepOf": "PASO {current} DE {total}",
+    "steps": {
+      "welcome": {
+        "title": "Bienvenido a PLOTMATE STORYBOARDS",
+        "description": "El kit de herramientas visual definitivo para cineastas. Crea guiones gráficos generados por IA y diseños de tomas, del guion a la pantalla -- todo ejecutándose localmente en tu navegador.",
+        "detail": "Este tour rápido te guiará por las funciones principales. Puedes saltarlo en cualquier momento.",
+        "highlights": ["Generación de imágenes de guión gráfico con IA", "Desglose de guiones y gestión de escenas", "Herramientas de planificación de continuidad visual"]
+      },
+      "projects": {
+        "title": "Biblioteca de proyectos",
+        "description": "Tu base creativa. Todos tus proyectos están aquí con búsqueda, ordenamiento y vista previa rápida.",
+        "detail": "Cada proyecto contiene sus propias escenas, tomas, elenco, utilería y locaciones -- todo organizado en un solo lugar.",
+        "highlights": ["Duplica proyectos para reutilizar configuraciones", "Respaldo y restauración completa del espacio de trabajo", "Importa/exporta toda tu biblioteca"]
+      },
+      "scenes": {
+        "title": "Del guion a escenas",
+        "description": "Sube un guion (PDF, TXT o Fountain) y deja que la IA lo desglose automáticamente en escenas con personajes, utilería y locaciones.",
+        "detail": "O crea escenas manualmente. El Administrador de Activos del Proyecto te permite importar desde la Biblioteca de Medios y usar IA para describir actores y locaciones.",
+        "highlights": ["Reordenamiento de escenas con arrastrar y soltar", "Iluminación, estado de ánimo y paleta de colores por escena", "Gestiona elenco, utilería y locaciones por proyecto"]
+      },
+      "shotBuilder": {
+        "title": "Constructor de tomas e IA",
+        "description": "El corazón de la aplicación. Define parámetros precisos de cámara y genera fotogramas fotorrealistas de guión gráfico con IA.",
+        "detail": "Configura tamaño de plano, ángulo, movimiento, lente, profundidad de campo y más. Usa el Asistente de Tomas IA para describir una toma en lenguaje natural.",
+        "highlights": ["Interpretación de tomas en lenguaje natural", "Sugerencias de secuencias de tomas con IA para escenas completas", "Búsqueda de locaciones con IA por dirección", "Edición y refinamiento de imágenes"]
+      },
+      "continuity": {
+        "title": "Continuidad y galería",
+        "description": "Planifica la ubicación de cámaras en un plano cenital y revisa todas las tomas en una cuadrícula visual.",
+        "detail": "La Vista de Continuidad te ayuda a mantener la consistencia visual. La Vista de Galería te da una perspectiva general de cada toma en una escena.",
+        "highlights": ["Línea de 180 grados con advertencias automáticas de cruce", "Conos de campo de visión y visualización de secuencia de tomas", "Reordenamiento de galería con arrastrar y soltar", "Soporte de deshacer/rehacer en el editor de continuidad"]
+      },
+      "mediaLibrary": {
+        "title": "Biblioteca de medios",
+        "description": "Una colección global de actores, utilería y locaciones que puedes reutilizar en todos tus proyectos.",
+        "detail": "Sube fotos de referencia y la IA generará descripciones. Importa activos directamente a cualquier proyecto desde la biblioteca.",
+        "highlights": ["Organización por carpetas con etiquetas y búsqueda", "Detección facial con IA y recorte inteligente para actores", "Descripciones visuales generadas por IA", "Carga y gestión masiva"]
+      },
+      "export": {
+        "title": "Exportar y compartir",
+        "description": "Exporta tus guiones gráficos en múltiples formatos para producción.",
+        "detail": "Comparte un PDF pulido con clientes, entrega una lista de tomas a tu DF, o envía un archivo HTML portátil que funciona sin conexión.",
+        "highlights": ["PDF: Guión gráfico para cliente, Lista de tomas, Presentación", "Activos de imagen como ZIP (JPEG, PNG, WebP)", "Visor HTML portátil (independiente, sin servidor)", "Respaldo y restauración completa del espacio de trabajo"]
+      },
+      "apiSetup": {
+        "title": "Configuración de API",
+        "description": "PLOTMATE usa tu propia clave API de Google Gemini para todas las funciones de IA. Tu clave se queda local y nunca se envía a servidores externos.",
+        "detail": "Ve a API y Configuración en la barra lateral para ingresar tu clave. Todos los datos permanecen en tu navegador -- nada se sube.",
+        "highlights": ["Clave API gratuita de aistudio.google.com", "Opcional: NanoBanana Pro para imágenes de mayor fidelidad", "Opcional: soporte para claves de OpenAI y Midjourney"]
+      },
+      "ready": {
+        "title": "¡Todo listo!",
+        "description": "Comienza creando tu primer proyecto, o explora la Biblioteca de Medios y Configuración. ¡Feliz creación de guiones gráficos!",
+        "detail": "Siempre puedes volver a ver este tour desde API y Configuración en la barra lateral."
+      }
+    },
+    "settings": {
+      "title": "Tour de introducción",
+      "description": "Vuelve a ver el tour introductorio que explica las funciones principales de la aplicación.",
+      "resetButton": "Mostrar tour de nuevo",
+      "resetConfirmation": "El tour se mostrará en la próxima carga de página. Actualiza para verlo ahora."
+    },
+    "carousel": {
+      "lightingSetup": {
+        "title": "Ilumina tus escenas como un profesional",
+        "description": "Configura una iluminación realista para cada escena y observa cómo transforma los fotogramas generados por IA. La IA lee tu configuración exacta de iluminación — tipo de fuente, dirección, color y modificadores — para producir imágenes cinematográficas listas para producción.",
+        "detail": "Encuentra la sección de Configuración de Iluminación en la parte inferior de cada formulario de escena. Incluso una sola luz clave mejora drásticamente la calidad de imagen.",
+        "highlights": [
+          "7 tipos de fuente: panel LED, COB + softbox, Fresnel, HMI y más",
+          "8 direcciones: frontal, lateral, contraluz, luz inferior y más",
+          "8 colores de luz incluyendo cian, púrpura y neón",
+          "8 modificadores: softbox, rejilla, gobo, neblina y más",
+          "Añade luces ilimitadas por escena para configuraciones complejas"
+        ]
+      },
+      "continuityView": {
+        "title": "Domina la continuidad visual",
+        "description": "Planifica la ubicación de cámaras en un plano cenital para asegurar que cada toma mantenga consistencia espacial. La Vista de Continuidad es tu mapa visual de toda la escena.",
+        "detail": "Accede a la Vista de Continuidad desde la barra de herramientas del Constructor de Tomas. Previene el error de edición más común — cruzar accidentalmente la línea de acción.",
+        "highlights": [
+          "Coloca personajes y elementos del set en una cuadrícula interactiva",
+          "Dibuja la línea de 180° — recibe advertencias automáticas de cruce",
+          "Los conos de campo de visión muestran lo que ve cada cámara",
+          "La trayectoria de secuencia de tomas rastrea el orden de movimiento de la cámara",
+          "Soporte completo de deshacer/rehacer para todas las colocaciones"
+        ]
+      }
+    },
+    "lightingHint": {
+      "title": "Configuración de iluminación — Tu arma secreta",
+      "description": "Define la iluminación por escena y la IA la renderizará fielmente. Tipo de fuente, dirección, color, modificadores — cada detalle da forma a tus fotogramas generados.",
+      "highlights": [
+        "Influye directamente en la calidad de generación de imágenes con IA",
+        "Múltiples luces por escena para configuraciones complejas",
+        "Modificadores como softbox, rejilla, gobo y neblina"
+      ]
+    },
+    "lightingProTip": "Añadir luces aquí influye directamente en cómo la IA genera tus imágenes de guión gráfico. ¡Prueba añadiendo una luz clave!"
+  }
+}
