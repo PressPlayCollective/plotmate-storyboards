@@ -97,32 +97,28 @@ Projects sync to a local backend server. The app also works offline using browse
 
 ### Prerequisites
 
-- **Node.js** version 18 or later
-- **npm** (comes with Node.js)
+- **Node.js** version 18 or later — [download here](https://nodejs.org)
 - A **Google Gemini API key** (optional — needed only for AI features; the app works without it)
 
-### 1. Clone or download the repository
+### Quick Start (recommended)
+
+1. Download or clone the repository
+2. Double-click **`Start PlotMate.command`** (macOS) or **`Start PlotMate.bat`** (Windows)
+
+That's it. The launcher installs dependencies on first run and starts the app. Open **http://localhost:9107** in your browser.
+
+### Manual Start
 
 ```bash
-git clone <repository-url>
-cd "PlotMate Storyboards"
-```
-
-### 2. Install dependencies
-
-```bash
+git clone https://github.com/PressPlayCollective/plotmate-storyboards.git
+cd plotmate-storyboards
 npm install
-```
-
-### 3. Run the app
-
-```bash
 npm run dev
 ```
 
-This starts the frontend and backend together. Open **http://plotmate.localhost:9107** in your browser.
+Open **http://localhost:9107** in your browser.
 
-### 4. (Optional) Configure AI
+### (Optional) Configure AI
 
 1. Open the app in your browser
 2. Go to **Account Settings** (profile icon)
