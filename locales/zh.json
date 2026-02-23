@@ -1,0 +1,215 @@
+
+{
+  "header": {
+    "title": "PLOTMATE STORYBOARDS",
+    "features": "功能",
+    "pricing": "价格",
+    "about": "关于",
+    "login": "登录",
+    "createAccount": "创建账户"
+  },
+  "landing": {
+    "hero": {
+      "title": "PLOTMATE STORYBOARDS",
+      "subtitle1": "终极视觉资料库",
+      "subtitle2": "为电影人打造",
+      "cta": "创建账户"
+    },
+    "whatIs": {
+      "title": "什么是 PLOTMATE STORYBOARDS？",
+      "description": "PLOTMATE STORYBOARDS 是一个生成式故事板和镜头设计系统。一个为电影人打造的，可完全搜索的高清图像库。利用 Gemini 的强大功能，找到您需要的确切图像，创建故事板，并管理从剧本到屏幕的视觉资产。"
+    },
+    "featuresSection": {
+      "generate": {
+        "title": "生成任何镜头",
+        "description": "从广阔的建置镜头到详细的插入镜头，描述您的需求，然后看着它变为现实。我们由 Gemini 驱动的生成式 AI 会根据您的确切规格创建逼真的故事板画面：镜头尺寸、构图、摄像机角度、镜头等等。"
+      },
+      "workflow": {
+        "title": "从剧本到屏幕的工作流程",
+        "description": "上传您的剧本，让我们的 AI 自动将其分解为场景。然后，管理您的演员、道具和地点。为整个场景生成镜头序列，并通过我们的俯视规划视图保持视觉连续性。"
+      }
+    },
+    "testimonial": {
+      "quote": "“PLOTMATE STORYBOARDS 彻底改变了我的准备工作方式。我能够以惊人的速度将场景可视化。对于任何导演来说，它都是一个不可或缺的工具。”",
+      "author": "- 张三",
+      "title": "《最后一帧》导演"
+    },
+    "ctaSection": {
+      "title": "今天开始创作",
+      "description": "解锁电影制作的未来。免费开始。",
+      "cta": "创建账户"
+    }
+  },
+  "footer": {
+    "title": "PLOTMATE STORYBOARDS",
+    "copyright": "© 2024 PLOTMATE STORYBOARDS. 版权所有。",
+    "terms": "服务条款",
+    "privacy": "隐私政策",
+    "contact": "联系我们"
+  },
+  "auth": {
+    "back": "返回",
+    "mainTitle": "PLOTMATE STORYBOARDS",
+    "createAccountTitle": "创建账户",
+    "welcomeBackTitle": "欢迎回来",
+    "createAccountSubtitle": "开始您的下一部杰作。",
+    "signInSubtitle": "登录以继续。",
+    "nameLabel": "全名",
+    "emailLabel": "电子邮件地址",
+    "passwordLabel": "密码",
+    "signUpButton": "注册",
+    "logInButton": "登录",
+    "processing": "处理中...",
+    "toggleToLogin": "已有账户？登录",
+    "toggleToSignUp": "没有账户？注册"
+  },
+  "featuresPage": {
+    "hero": {
+      "title": "功能",
+      "subtitle": "从剧本到屏幕：完整的视觉工具包"
+    },
+    "cards": {
+      "generation": {
+        "title": "AI 故事板生成",
+        "description": "用详细的电影术语描述任何镜头——镜头尺寸、角度、镜头、灯光——然后观看 Gemini 即时创建逼真的画面。"
+      },
+      "workflow": {
+        "title": "从剧本到屏幕的工作流程",
+        "description": "上传多种格式的剧本。我们的 AI 会分析文本，自动将其分解为场景，并识别角色、道具和地点。"
+      },
+      "library": {
+        "title": "动态演员和道具库",
+        "description": "管理您项目的所有资产。为演员和道具上传参考照片，我们的 AI 会生成视觉描述并智能裁剪图像以实现完美构图。"
+      },
+      "scouting": {
+        "title": "AI 场景勘探",
+        "description": "利用 Google 地图获取真实世界地点的丰富电影描述，只需输入地址，即可指导您基于地点的镜头生成。"
+      },
+      "continuity": {
+        "title": "视觉连续性规划",
+        "description": "使用俯视连续性视图为整个场景规划摄像机位置。我们的 AI 通过自动警告您跨越 180 度轴线来帮助您保持连续性。"
+      }
+    }
+  },
+  "pricingPage": {
+    "title": "创始人套餐",
+    "subtitle": "为我们最早的支持者提供的特别优惠。",
+    "price": "¥68",
+    "period": "/ 月",
+    "tagline": "终身锁定。",
+    "description": "我们的首批用户将终身享受每月 68 元的所有功能。这包括：",
+    "features": [
+      "无限故事板生成",
+      "AI 剧本分解",
+      "完整的演员、道具和地点管理",
+      "连续性规划工具",
+      "所有未来的更新和功能"
+    ],
+    "note": "我们的定价将来会更新为分级套餐，但您的创始人价格永远不会改变。感谢您从一开始就加入我们！",
+    "cta": "开始使用"
+  },
+  "onboarding": {
+    "skip": "跳过导览",
+    "next": "下一步",
+    "back": "返回",
+    "getStarted": "开始使用",
+    "stepOf": "步骤 {current} / {total}",
+    "steps": {
+      "welcome": {
+        "title": "欢迎使用 PLOTMATE STORYBOARDS",
+        "description": "为电影人打造的终极视觉工具包。从剧本到屏幕，创建AI生成的故事板和镜头设计——全部在浏览器本地运行。",
+        "detail": "这个快速导览将向您介绍主要功能。您可以随时跳过。",
+        "highlights": ["AI驱动的故事板图像生成", "剧本分解和场景管理", "视觉连续性规划工具"]
+      },
+      "projects": {
+        "title": "项目库",
+        "description": "您的创意基地。所有项目都在这里，支持搜索、排序和快速预览。",
+        "detail": "每个项目包含自己的场景、镜头、演员、道具和地点——所有内容井然有序。",
+        "highlights": ["复制项目以重用设置", "完整的工作区备份和恢复", "导入/导出整个资料库"]
+      },
+      "scenes": {
+        "title": "从剧本到场景",
+        "description": "上传剧本（PDF、TXT 或 Fountain格式），让AI自动分解为场景，识别角色、道具和地点。",
+        "detail": "或者手动创建场景。项目资产管理器让您从媒体库导入资源，并使用AI描述演员和地点。",
+        "highlights": ["拖拽场景排序", "每个场景的灯光、氛围和色彩方案", "按项目管理演员、道具和地点"]
+      },
+      "shotBuilder": {
+        "title": "镜头构建器与AI",
+        "description": "应用的核心。定义精确的摄像机参数，使用AI生成逼真的故事板画面。",
+        "detail": "设置镜头尺寸、角度、运动、镜头、景深等。使用AI镜头助手用自然语言描述镜头，让AI设置参数。",
+        "highlights": ["自然语言镜头解释", "整个场景的AI镜头序列建议", "通过地址进行AI外景勘察", "图像编辑和优化"]
+      },
+      "continuity": {
+        "title": "连续性与画廊",
+        "description": "在俯视平面图上规划摄像机位置，在视觉画廊网格中查看所有镜头。",
+        "detail": "连续性视图帮助您保持视觉一致性。画廊视图让您鸟瞰场景中的每个镜头。",
+        "highlights": ["180度轴线和自动越轴警告", "视场角锥体和镜头序列路径可视化", "拖拽画廊排序", "连续性编辑器中的撤销/重做支持"]
+      },
+      "mediaLibrary": {
+        "title": "媒体库",
+        "description": "可在所有项目中重复使用的全局演员、道具和地点集合。",
+        "detail": "上传参考照片，AI将生成描述。从资料库直接导入资产到任何项目。",
+        "highlights": ["文件夹组织，支持标签和搜索", "AI面部检测和智能裁剪", "AI生成的视觉描述", "批量上传和管理"]
+      },
+      "export": {
+        "title": "导出与分享",
+        "description": "以多种格式导出故事板用于制作。",
+        "detail": "向客户分享精美的PDF，向摄影指导提供镜头列表，或发送可离线使用的便携HTML文件。",
+        "highlights": ["PDF：客户故事板、镜头列表、演示文稿", "图像资产ZIP打包（JPEG、PNG、WebP）", "便携HTML查看器（独立运行，无需服务器）", "完整工作区备份和恢复"]
+      },
+      "apiSetup": {
+        "title": "API 设置",
+        "description": "PLOTMATE 使用您自己的 Google Gemini API 密钥来实现所有AI功能。您的密钥保存在本地，永远不会发送到外部服务器。",
+        "detail": "前往侧边栏的「API和设置」输入您的密钥。所有数据都保存在您的浏览器中——不会上传任何内容。",
+        "highlights": ["从 aistudio.google.com 免费获取API密钥", "可选：NanoBanana Pro 获取更高保真度图像", "可选：支持 OpenAI 和 Midjourney 密钥"]
+      },
+      "ready": {
+        "title": "一切就绪！",
+        "description": "从创建第一个项目开始，或探索媒体库和设置。祝您故事板创作愉快！",
+        "detail": "您可以随时从侧边栏的「API和设置」中重新观看此导览。"
+      }
+    },
+    "settings": {
+      "title": "导览教程",
+      "description": "重新观看介绍应用主要功能的导览。",
+      "resetButton": "再次显示导览",
+      "resetConfirmation": "导览将在下次页面加载时显示。刷新页面即可立即查看。"
+    },
+    "carousel": {
+      "lightingSetup": {
+        "title": "像专业人士一样为场景打光",
+        "description": "为每个场景设置逼真的灯光，看它如何改变AI生成的故事板画面。AI会读取您精确的灯光配置——光源类型、方向、颜色和修饰器——生成电影级的制作级图像。",
+        "detail": "在每个场景表单底部找到「灯光设置」部分。即使只添加一个主灯也能显著提升图像质量。",
+        "highlights": [
+          "7种光源类型：LED面板、COB+柔光箱、菲涅尔、HMI等",
+          "8个方向：正面、侧面、背光、底光等",
+          "8种灯光颜色，包括青色、紫色和霓虹色",
+          "8种修饰器：柔光箱、网格、遮光板、烟雾等",
+          "每个场景可添加无限数量的灯光"
+        ]
+      },
+      "continuityView": {
+        "title": "掌握视觉连续性",
+        "description": "在俯视平面图上规划摄像机位置，确保每个镜头保持空间一致性。连续性视图是整个场景的视觉地图。",
+        "detail": "从镜头构建器工具栏访问连续性视图。它可以防止最常见的剪辑错误——意外越过动作轴线。",
+        "highlights": [
+          "在交互式网格上放置角色和场景元素",
+          "绘制180°轴线——获得自动越轴警告",
+          "视场角锥体显示每个摄像机的拍摄范围",
+          "镜头序列路径追踪摄像机移动顺序",
+          "所有放置操作支持撤销/重做"
+        ]
+      }
+    },
+    "lightingHint": {
+      "title": "灯光设置——您的秘密武器",
+      "description": "定义每个场景的灯光，AI将忠实地渲染它。光源类型、方向、颜色、修饰器——每个细节都影响生成的画面。",
+      "highlights": [
+        "直接影响AI图像生成质量",
+        "每个场景可设置多个灯光",
+        "柔光箱、网格、遮光板和烟雾等修饰器"
+      ]
+    },
+    "lightingProTip": "在此添加灯光将直接影响AI生成故事板图像的效果。试试添加一个主灯！"
+  }
+}
